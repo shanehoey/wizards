@@ -1,4 +1,3 @@
 ## MOVED
 
-https://github.com/docs.shanehoey
-
+https://github.com/shanehoey/docs.shanehoey
