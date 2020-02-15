@@ -1,3 +1,4 @@
-# wizards 
+## MOVED
 
-A collection of wizards used on docs.shanehoey.com/wizards
+https://github.com/docs.shanehoey
+
